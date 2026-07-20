@@ -1,0 +1,17 @@
+# ============================================================
+# requirements.txt
+# Purpose: List of Python packages needed for this project
+# Install everything with: pip install -r requirements.txt
+# ============================================================
+
+# Streamlit — builds our web app UI with Python (app.py uses this)
+streamlit
+
+# Pandas — reads and works with tables of data (like course lists in CSV files)
+pandas
+
+# NumPy — helps with numbers and arrays used in Machine Learning calculations
+numpy
+
+# Scikit-learn — provides ML tools we will use for the recommendation model
+scikit-learn

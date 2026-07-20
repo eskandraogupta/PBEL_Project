@@ -1,0 +1,16 @@
+course_id,course_name,category,level,duration_hours,rating,tags
+1,Python for Absolute Beginners,Python,Beginner,10,4.6,python basics syntax variables
+2,Intermediate Python Programming,Python,Intermediate,15,4.5,python functions oop modules
+3,Advanced Python and Best Practices,Python,Advanced,20,4.7,python advanced decorators testing
+4,Introduction to Machine Learning,Machine Learning,Beginner,12,4.8,ml basics supervised learning
+5,Supervised Learning with Scikit-learn,Machine Learning,Intermediate,18,4.6,classification regression sklearn
+6,Deep Learning Fundamentals,Machine Learning,Advanced,25,4.7,neural networks deep learning
+7,HTML CSS and JavaScript Basics,Web Development,Beginner,14,4.4,html css javascript frontend
+8,Building Websites with React,Web Development,Intermediate,20,4.6,react components frontend
+9,Full Stack Web Development,Web Development,Advanced,30,4.5,fullstack backend api database
+10,Data Analysis with Pandas,Data Science,Beginner,12,4.7,pandas numpy data cleaning
+11,Data Visualization Essentials,Data Science,Intermediate,16,4.5,matplotlib seaborn charts
+12,Applied Data Science Project,Data Science,Advanced,22,4.8,data science project portfolio
+13,Python for Data Science,Python,Intermediate,18,4.6,python pandas numpy datascience
+14,Machine Learning for Beginners with Python,Machine Learning,Beginner,14,4.7,python ml beginner projects
+15,Web APIs with Python Flask,Web Development,Intermediate,16,4.4,python flask api backend
